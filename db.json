@@ -1,16 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hey mom"
-    },
-    {
-      "id": 2,
-      "title": "hows it going"
-    },
-    {
-      "id": 3,
-      "title": "softeng"
-    }
+  "users": [
+  { "firstName":"John", "lastName":"Doe" },
+  { "firstName":"Anna", "lastName":"Smith" },
+  { "firstName":"Peter", "lastName":"Jones" }
   ]
 }
