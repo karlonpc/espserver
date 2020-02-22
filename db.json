@@ -1,1 +1,8 @@
-Hi mom
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hey mom"
+    }
+  ]
+}
