@@ -1,7 +1,10 @@
 {
   "users": [
-  { "firstName":"John", "lastName":"Doe" },
-  { "firstName":"Anna", "lastName":"Smith" },
-  { "firstName":"Peter", "lastName":"Jones" }
+  { "1":"L"},
+  { "2":"R"},
+  { "3":"S"},
+  { "4":"S"},
+  { "5":"L"},
+  { "6":"R"}
   ]
 }
